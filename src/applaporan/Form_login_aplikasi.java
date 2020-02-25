@@ -183,6 +183,8 @@ public class Form_login_aplikasi extends javax.swing.JFrame {
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
                 new Form_login_aplikasi().setVisible(true);
+                
+                //ki ,di netbeans w ko merah ya
             }
         });
     }
